@@ -89,3 +89,21 @@
 | immutable             | 恒定      |                                          |
 | bi-directional        | 双向的     |                                          |
 
+## Loops and conditions
+
+| English       | Chinese | Explanation                              |
+| :------------ | :------ | :--------------------------------------- |
+| Function      | 函数      |                                          |
+| mutator       | 赋值函数    |                                          |
+| initial array | 初始化数组   |                                          |
+| sorted array  | 已排序数组   |                                          |
+| Loop          | 循环      |                                          |
+| Condition     | 条件      |                                          |
+| expression    | 表达式     |                                          |
+| evaluate      | 赋值      |                                          |
+| invert        | 倒置      |                                          |
+| alternate     | 替换      |                                          |
+| execution     | 执行      |                                          |
+| negated       | 否定      | The negated version of an if statement can be written using `unless` |
+| equivalent    | 等值      |                                          |
+| iterate       | 迭代      |                                          |
