@@ -59,10 +59,33 @@
 | Reduction Operators     | 归约运算符   |                                          |
 
 # Variables #
-| English | Chinese | Explanation |
-| :------ | :------ | :---------- |
-| sigil   | 魔符      |             |
-| scalar  | 标量      |             |
-| array   | 数组      |             |
-| hash    | 哈希      |             |
+| English               | Chinese | Explanation                              |
+| :-------------------- | :------ | :--------------------------------------- |
+| sigil                 | 魔符      |                                          |
+| scalar                | 标量      |                                          |
+| array                 | 数组      |                                          |
+| hash                  | 哈希      |                                          |
+| reference             | 引用      | A scalar holds one value or reference    |
+| specific              | 特殊      |                                          |
+| applicable            | 适用      |                                          |
+| Rational Number       | 有理数     |                                          |
+| Irrational Number     | 无理数     |                                          |
+| tilde                 | 波浪符     | ～                                        |
+| multiple              | 复合      |                                          |
+| contrast              | 对比      |                                          |
+| declare               | 定义      |                                          |
+| Multidimensional      | 多维      |                                          |
+| Visual representation | 可视化表示   |                                          |
+| hierarchy             | 层级      |                                          |
+| built-in classes      | 基类      |                                          |
+| interchangeably       | 可互换的    |                                          |
+| arbitrary-precision   | 任意精度    |                                          |
+| limited-precision     | 有限精度    |                                          |
+| introspection         | 自省      | Introspection is the process of getting information <br />about an object properties like its type |
+| Scoping               | 作用域     |                                          |
+| declarator            | 声明符     |                                          |
+| Assignment            | 赋值      |                                          |
+| Binding               | 绑定      |                                          |
+| immutable             | 恒定      |                                          |
+| bi-directional        | 双向的     |                                          |
 
