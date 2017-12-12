@@ -89,7 +89,7 @@
 | immutable             | 恒定      |                                          |
 | bi-directional        | 双向的     |                                          |
 
-## Loops and conditions
+# Loops and conditions #
 
 | English       | Chinese | Explanation                              |
 | :------------ | :------ | :--------------------------------------- |
@@ -107,3 +107,37 @@
 | negated       | 否定      | The negated version of an if statement can be written using `unless` |
 | equivalent    | 等值      |                                          |
 | iterate       | 迭代      |                                          |
+
+# I/O #
+
+| English         | Chinese | Explanation                            |
+| :-------------- | :------ | :------------------------------------- |
+| interface       | 接口      |                                        |
+| subsequently    | 接着      |                                        |
+| prompt          | 提示      |                                        |
+| combination     | 组合      |                                        |
+| involve         | 涉及      |                                        |
+| interprete      | 解读      |                                        |
+| meta characters | 元字符；字元  |                                        |
+| slurp           |         | slurp is used to read data from a file |
+| spurt           |         | spurt is used to write data to a file  |
+| directory       | 目录      |                                        |
+| reusing         | 复用      |                                        |
+
+
+# Subroutine #
+
+| English    | Chinese | Explanation |
+| :--------- | :------ | :---------- |
+| subroutine | 子程序     |             |
+| definition | 定义      |             |
+| showcase   | 展示      |             |
+| signature  | 签署      |             |
+| parameter  | 参数      |             |
+| dispatch   | 派送      |             |
+| optional   | 可选的     |             |
+| implicit   | 隐式      |             |
+| explicit   | 显式      |             |
+| restrict   | 限制      |             |
+| trait      | 特征      |             |
+| constraint | 约束      |             |
