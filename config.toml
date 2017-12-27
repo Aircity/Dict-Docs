@@ -1,4 +1,4 @@
-baseurl = "https://github.com/Aircity/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Dict Docs"
 theme = "hugo-material-docs"
