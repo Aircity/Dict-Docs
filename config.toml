@@ -1,4 +1,4 @@
-baseurl = "https://dict-docs.netlify.com/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Dict Docs"
 theme = "hugo-material-docs"
