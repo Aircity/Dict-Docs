@@ -2,7 +2,30 @@
 title: Vue
 ---
 
+## installation
+| English            | Chinese | Explanation                              |
+| :----------------- | :------ | :--------------------------------------- |
+| compatibility      | 兼容性     | Compatibility Notes                      |
+| compliant          | 符合的     | However it supports all [ECMAScript 5 compliant browsers](http://caniuse.com/#feat=es5) |
+| release            | 版本      | Release Notes                            |
+| direct             | 直接      |                                          |
+| bundler            |         |                                          |
+| accompany          | 附属的     |                                          |
+| scaffolding        | 脚手架     |                                          |
+| batteries-included |         | It provides batteries-included build setups for a modern frontend workflow |
+| associated         | 相关的     |                                          |
+| directory          | 目录      |                                          |
+| pre-compiled       | 预编译     |                                          |
+| compiler           | 编译器     |                                          |
+| counterpart        | 同类      |                                          |
+| alias              | 别名      |                                          |
+| intend             |         | are intended for                         |
+| preserve           | 保存      |                                          |
+
+
+
 ## Introduction 
+
 | English         | Chinese       | Explanation                              |
 | :-------------- | :------------ | :--------------------------------------- |
 | progressive     | 渐进            |                                          |
