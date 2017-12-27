@@ -1,0 +1,3 @@
+[submodule "themes/hugo-material-doc"]
+	path = themes/hugo-material-doc
+	url = https://github.com/digitalcraftsman/hugo-material-docs.git
