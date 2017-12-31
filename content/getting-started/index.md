@@ -94,7 +94,6 @@ title: Getting-started
 | bi-directional        | 双向的     |                                          |
 
 ## Loops and conditions 
-
 | English       | Chinese | Explanation                              |
 | :------------ | :------ | :--------------------------------------- |
 | Function      | 函数      |                                          |
@@ -113,7 +112,6 @@ title: Getting-started
 | iterate       | 迭代      |                                          |
 
 ## I/O 
-
 | English         | Chinese | Explanation                            |
 | :-------------- | :------ | :------------------------------------- |
 | interface       | 接口      |                                        |
@@ -128,9 +126,7 @@ title: Getting-started
 | directory       | 目录      |                                        |
 | reusing         | 复用      |                                        |
 
-
 ## Subroutine 
-
 | English    | Chinese | Explanation |
 | :--------- | :------ | :---------- |
 | subroutine | 子程序     |             |
@@ -145,3 +141,30 @@ title: Getting-started
 | restrict   | 限制      |             |
 | trait      | 特征      |             |
 | constraint | 约束      |             |
+
+## Functional Programming 
+| English           | Chinese | Explanation                              |
+| :---------------- | :------ | :--------------------------------------- |
+| arguments         | 参数      |                                          |
+| anonymous         | 匿名      |                                          |
+| lambda            |         | An **anonymous function** is also called a **lambda** |
+| parlance          | 用语      |                                          |
+| notation          | 表示法     |                                          |
+| chaining          | 链式      |                                          |
+| illustrate        | 说明      |                                          |
+| Feed Operator     |         | The **feed operator**, called *pipe* in some functional programming languages |
+| Hyper Operator    |         | The **hyper operator** `>>.` will call a method on all elements of a list and return a list of the results. |
+| Junctions         | 中继器     | A **junction** is a logical superposition of valu |
+| autothreading     | 自动线程化   |                                          |
+| lazily evaluated  | 惰性求值    | A **lazy list** is a list that is lazily evaluated |
+| lookup table      | 查询表     | Lazy evaluation delays the evaluation of an expression until required, and avoids repeating evaluations by storing results in a lookup table |
+| structure         | 结构      | The ability to construct potentially infinite data structures |
+| control flow      | 控制语句    |                                          |
+| initial           | 初始化     |                                          |
+| deduced generator | 推断生成器   |                                          |
+| enclosed          | 闭合      |                                          |
+| closure           | 闭包      |                                          |
+| scope             | 作用域     |                                          |
+| lexical variables | 词法变量    |                                          |
+| incorporate       | 囊括      |                                          |
+
